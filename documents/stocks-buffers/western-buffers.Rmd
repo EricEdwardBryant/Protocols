@@ -1,0 +1,82 @@
+---
+title: Western Buffers
+author: Eric Bryant, eeb2139@columbia.edu
+date: 2017-01-29
+---
+
+# 10x SDS-PAGE Running Buffer (1L)
+
+250 mM Tris, 1.92 M glycine, 1% SDS, pH 8.3 (Bio-Rad recipe)
+
+**Do not adjust the pH**
+
+Material   Quantity
+---------- ----------
+Tris base  30.3g
+Glycine    144.1g
+SDS        10g
+ddH~2~O    To 1L
+
+
+# 1x Transfer buffer (1L) (a.k.a Towbin buffer)
+
+25 mM Tris, 192 mM glycine, 20% Methanol, pH 8.3 (Bio-Rad recipe)
+
+**Do not adjust the pH**
+
+**SDS is sometimes included for larger proteins as it improves mobility of large proteins out of the gel, but reduces affinity to the membrane**
+
+Material   Quantity
+---------- ------------------------
+Tris base  3.03g
+Glycine    14.4g
+ddH~2~O    To 1L
+SDS        1g (for >80kD proteins)
+
+
+# 3x SDS Sample Buffer (50mL)
+
+187.5 mM Tris, 30% Glycerol, 9% SDS, 0.05% Bromophenol Blue, 6% 2-Mercaptoethanol
+
+**For every 50uL of 3xSDS sample buffer used, add 3uL of 2-Mercaptoethanol before use**
+
+Material          Quantity
+----------------- ------------------------
+0.5 M Tris pH6.8  18.75mL
+100% Glycerol     15mL
+SDS               4.5g
+Bromophenol Blue  0.025g
+ddH~2~O           To 47mL
+
+
+# T~50~E~1~ (100mL)
+
+50mM Tris pH8, 1mM EDTA
+
+Material          Quantity
+----------------- ------------------------
+1M Tris pH8       5mL
+0.5M EDTA         200uL
+ddH~2~O           94.8mL
+
+
+# 0.5 M EDTA, pH8 (500mL)
+
+**EDTA will not dissolve until the pH reaches 8**
+
+1. **Suspend** 93g Na2-EDTA-2H~2~O (disodium dyhydrate) in 400mL ddH~2~O
+2. **Add** 9g solid NaOH
+3. **Consitute** to 500 mL with ddH~2~O
+4. **Adjust pH** once all the NaOH dissolves with 10N NaOH
+
+# Tris buffers
+
+Keep 1M stocks at pH 6.8, 8, and 8.8
+
+Recipes are for 500mL. Let cool before final pH adjustments
+
+## 1M Tris-HCl
+
+1. **Dissolve** 60.5g of Tris in 400 mL ddH~2~O
+2. **Constitute** to 500mL with ddH~2~O
+3. **Adjust** pH to desired level using an eyedropper of concentrated HCl
