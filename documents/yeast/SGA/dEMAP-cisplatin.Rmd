@@ -1,6 +1,6 @@
 ---
 title: "SGA for cisplatin screen protocol"
-author: "Francois Dossin, dossinf@gmail.com"
+author: "Francois Dossin, dossinf@gmail.com & Eric Bryant, ericedwardbryant@gmail.com"
 date: '`r format(Sys.time(), "%a %b %d, %Y")`'
 ---
 
@@ -10,7 +10,7 @@ Briefly, a query strain is individually crossed to a library of cisplatin sensit
 
 Typically, queries were analyzed in groups (batch) of 6 (including the leu2 control query). Each batch was replicated 4 times, and at least one replicate was analyzed as a time series.
 
-All plates should be left in the 37C incubator unless mentioned otherwise.
+All plates should be left in the 30C incubator unless mentioned otherwise.
 
 
 ## SGA Protocol
@@ -19,7 +19,7 @@ All plates should be left in the 37C incubator unless mentioned otherwise.
 
 2. **Liquid cultures:** Once single colonies have grown, pick one per query, and launch overnight liquid cultures (5 mL tubes + YPD, 37C). On that same day, print a copy of the CisPt library on YPD+G418 plates. *If multiple batches are planned to be run on the same day, the library should be printed as many times as there are batches.*
 
-3. **Lawns:** The next morning, pellet cells, resuspend in ~2mL sterile water, spread 400uL on YPD rectangular plates, and make lawns. Let lawns grow overnight at 30C
+3. **Lawns:** The next morning, pellet cells, resuspend in ~400uL sterile water, spread 400uL on YPD rectangular plates, and make lawns. Let lawns grow overnight at 30C
 
 4. **Mating:** The next morning, cross the lawns to the CisPt library. For each batch:
     - run **replicate many** program, using the CisPt library as source, and YPD plates as targets. Check **recycle** and **revisit** settings. 384 short pinned pads should be used.
